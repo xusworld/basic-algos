@@ -41,17 +41,43 @@
 ## 1.5 二叉树
 
 1. 前序遍历二叉树
+https://leetcode-cn.com/problems/binary-tree-preorder-traversal/
+
 2. 中序遍历二叉树
+https://leetcode-cn.com/problems/binary-tree-inorder-traversal/
+
 3. 后序遍历二叉树
+https://leetcode-cn.com/problems/binary-tree-postorder-traversal/
+
 4. 层次遍历二叉树
-5. 重建二叉树
-6. 从前序与中序遍历序列构造二叉树
-7. 从中序和后序遍历序列构造二叉树
+https://leetcode-cn.com/problems/binary-tree-level-order-traversal/
+
+5. 从前序与中序遍历序列构造二叉树
+https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+
+6. 从中序和后序遍历序列构造二叉树
+https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/
+
 7. 二叉树最大深度
+https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/
+
+8. 二叉树最小深度
+https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/
+
+
 8. 翻转二叉树
+https://leetcode-cn.com/problems/invert-binary-tree/
+
 9. 二叉树所有路径
+https://leetcode-cn.com/problems/path-sum/
+
 10. 二叉树的镜像
+https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/
+
 11. 二叉树的最近公共祖先
+https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
+
+
 
 https://leetcode-cn.com/tag/tree/problemset/
 
