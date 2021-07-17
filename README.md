@@ -1,4 +1,3 @@
-T
 # 程序员应该掌握的基础算法
 
 人生少有平步青云，多是拼搏后螺旋上升。
@@ -6,25 +5,27 @@ T
 ## 1 数据结构和算法
 
 ### 1.1 排序算法
-1. [插入排序](https://github.com/xusworld/basic-algos/blob/master/algos/sort/insert_sort.h)
-2. [希尔排序](https://github.com/xusworld/basic-algos/blob/master/algos/sort/shell_sort.h)
-3. [选择排序](https://github.com/xusworld/basic-algos/blob/master/algos/sort/selection_sort.h)
-4. [堆排序](https://github.com/xusworld/basic-algos/blob/master/algos/sort/heap_sort.h)
-5. [冒泡排序](https://github.com/xusworld/basic-algos/blob/master/algos/sort/bubble_sort.h)
-6. [快速排序](https://github.com/xusworld/basic-algos/blob/master/algos/sort/quick_sort.h)
-7. [归并排序](https://github.com/xusworld/basic-algos/blob/master/algos/sort/merge_sort.h)
-8. [计数排序](https://github.com/xusworld/basic-algos/blob/master/algos/sort/counting_sort.h)
-9. [桶排序](https://github.com/xusworld/basic-algos/blob/master/algos/sort/bucket_sort.h)
-10. [基数排序](https://github.com/xusworld/basic-algos/blob/master/algos/sort/radix_sort.h)
+1. [插入排序(insert sort)](https://github.com/xusworld/basic-algos/blob/master/algos/sort/insert_sort.h)
+2. [希尔排序(shell sort)](https://github.com/xusworld/basic-algos/blob/master/algos/sort/shell_sort.h)
+3. [选择排序(selection sort)](https://github.com/xusworld/basic-algos/blob/master/algos/sort/selection_sort.h)
+4. [堆排序(heap sort)](https://github.com/xusworld/basic-algos/blob/master/algos/sort/heap_sort.h)
+5. [冒泡排序(bubble sort)](https://github.com/xusworld/basic-algos/blob/master/algos/sort/bubble_sort.h)
+6. [快速排序(quick sort)](https://github.com/xusworld/basic-algos/blob/master/algos/sort/quick_sort.h)
+7. [归并排序(merge sort)](https://github.com/xusworld/basic-algos/blob/master/algos/sort/merge_sort.h)
+8. [计数排序(counting sort)](https://github.com/xusworld/basic-algos/blob/master/algos/sort/counting_sort.h)
+9. [桶排序(bucket sort)](https://github.com/xusworld/basic-algos/blob/master/algos/sort/bucket_sort.h)
+10. [基数排序(radix sort)](https://github.com/xusworld/basic-algos/blob/master/algos/sort/radix_sort.h)
 
 ### 1.2 查找算法
-1. 顺序查找
-2. 二分查找
-3. 插值查找
-4. 斐波那契查找
-5. 树表查找
-6. 分块查找
-7. 哈希查找
+1. [顺序查找(sequence_search)](https://github.com/xusworld/basic-algos/blob/master/algos/search/sequence_search.h)
+2. [二分查找(binary search)](https://github.com/xusworld/basic-algos/blob/master/algos/search/binary_search.h)
+3. [插值查找(interpolation search)](https://github.com/xusworld/basic-algos/blob/master/algos/search/interpolation_search.h)
+4. [斐波那契查找(fibonacci search)](https://github.com/xusworld/basic-algos/blob/master/algos/search/fibonacci_search.h)
+5. [分块查找(block search)](https://github.com/xusworld/basic-algos/blob/master/algos/search/block_search.h)
+6. [哈希查找(hash search)](https://github.com/xusworld/basic-algos/blob/master/algos/search/hash_search.h)
+7. [指数查找(exponential search)](https://github.com/xusworld/basic-algos/blob/master/algos/search/exponential_search.h)
+8. [跳跃查找(jump search)](https://github.com/xusworld/basic-algos/blob/master/algos/search/jump_search.h)
+9. [无处不在的二分查找(the ubiquitous binary search)](https://github.com/xusworld/basic-algos/blob/master/algos/search/the_ubiquitous_binary_search.h)
 
 ### 1.3 链表基础
 1. 链表的创建
