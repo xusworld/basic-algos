@@ -1,6 +1,6 @@
 # 程序员应该掌握的基础算法
 
-人生少有平步青云，多是拼搏后螺旋上升。
+**人生少有平步青云，多是拼搏后螺旋上升。**
 
 ## 1 数据结构和算法
 
@@ -28,13 +28,13 @@
 9. [无处不在的二分查找(the ubiquitous binary search)](https://github.com/xusworld/basic-algos/blob/master/algos/search/the_ubiquitous_binary_search.h)
 
 ### 1.3 链表
-1. 单链表
-2. 双向链表
-3. 环形链表
+1. [单链表(singly linked list)](https://github.com/xusworld/basic-algos/blob/master/algos/linked_list/singly_linked_list.h)
+2. [双向链表(doubly linked list)](https://github.com/xusworld/basic-algos/blob/master/algos/linked_list/doubly_linked_list.h)
+3. [环形链表(circular linked list)](https://github.com/xusworld/basic-algos/blob/master/algos/linked_list/circular_linked_list.h)
 
 
 
-### 1.4 哈希表基础
+### 1.4 哈希表
 1. 散列函数设计
 2. 冲突解决（链表法，开放寻址法）
 3. 位图
@@ -57,6 +57,18 @@
 
 https://leetcode-cn.com/tag/tree/problemset/
 
+
+## 1.6 栈
+1. [最小栈](https://github.com/xusworld/basic-algos/blob/master/algos/leetcode/155_min_stack.h) 
+
+## 1.7 堆
+1. 小顶堆
+2. 大顶堆
+3. 二项堆
+4. 优先队列
+5. 斐波那契堆
+
+
 ## 2 算法思维训练
 算法思维训练栏目中，通过一些具体的例子来训练自己对数据结构的掌握程度。
 
@@ -75,15 +87,6 @@ https://leetcode-cn.com/tag/tree/problemset/
 
 ## 2.5 队列 
 
-## 2.6 栈
-1. [最小栈](https://github.com/xusworld/basic-algos/blob/master/algos/leetcode/155_min_stack.h) 
-
-## 2.7 堆
-1. 小顶堆
-2. 大顶堆
-3. 二项堆
-4. 优先队列
-5. 斐波那契堆
 
 
 ## 2.8 树
