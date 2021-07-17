@@ -5,16 +5,16 @@
 ## 1 数据结构
 
 ### 1.1 排序算法
-1. 插入排序
-2. 希尔排序
-3. 选择排序
-4. 堆排序
-5. 冒泡排序
-6. 快速排序
-7. 归并排序
-8. 计数排序
-9. 桶排序
-10. 基数排序
+1. [插入排序](https://github.com/xusworld/basic-algos/blob/master/algos/sort/insert_sort.h)
+2. [希尔排序](https://github.com/xusworld/basic-algos/blob/master/algos/sort/shell_sort.h)
+3. [选择排序](https://github.com/xusworld/basic-algos/blob/master/algos/sort/selection_sort.h)
+4. [堆排序](https://github.com/xusworld/basic-algos/blob/master/algos/sort/heap_sort.h)
+5. [冒泡排序](https://github.com/xusworld/basic-algos/blob/master/algos/sort/bubble_sort.h)
+6. [快速排序](https://github.com/xusworld/basic-algos/blob/master/algos/sort/quick_sort.h)
+7. [归并排序](https://github.com/xusworld/basic-algos/blob/master/algos/sort/merge_sort.h)
+8. [计数排序](https://github.com/xusworld/basic-algos/blob/master/algos/sort/counting_sort.h)
+9. [桶排序](https://github.com/xusworld/basic-algos/blob/master/algos/sort/bucket_sort.h)
+10. [基数排序](https://github.com/xusworld/basic-algos/blob/master/algos/sort/radix_sort.h)
 
 ### 1.2 查找算法
 1. 顺序查找
