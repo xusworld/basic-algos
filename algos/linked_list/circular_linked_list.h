@@ -1,0 +1,6 @@
+#ifndef EVERFLOW_ALGOS_LINKED_LIST_CIRCULAR_LINKED_LIST_H_
+#define EVERFLOW_ALGOS_LINKED_LIST_CIRCULAR_LINKED_LIST_H_
+
+// https://www.geeksforgeeks.org/data-structures/linked-list/
+
+#endif //EVERFLOW_ALGOS_LINKED_LIST_CIRCULAR_LINKED_LIST_H_

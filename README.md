@@ -27,10 +27,11 @@
 8. [跳跃查找(jump search)](https://github.com/xusworld/basic-algos/blob/master/algos/search/jump_search.h)
 9. [无处不在的二分查找(the ubiquitous binary search)](https://github.com/xusworld/basic-algos/blob/master/algos/search/the_ubiquitous_binary_search.h)
 
-### 1.3 链表基础
-1. 链表的创建
-2. 链表的插入、删除 等
-3. 双向链表
+### 1.3 链表
+1. 单链表
+2. 双向链表
+3. 环形链表
+
 
 
 ### 1.4 哈希表基础
