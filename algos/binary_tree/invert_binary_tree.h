@@ -1,8 +1,6 @@
-//
-// Created by Luke Skywalker on 2021/7/18.
-//
-
 #ifndef EVERFLOW_ALGOS_BINARY_TREE_INVERT_BINARY_TREE_H_
 #define EVERFLOW_ALGOS_BINARY_TREE_INVERT_BINARY_TREE_H_
+
+https://leetcode-cn.com/problems/invert-binary-tree/
 
 #endif //EVERFLOW_ALGOS_BINARY_TREE_INVERT_BINARY_TREE_H_
