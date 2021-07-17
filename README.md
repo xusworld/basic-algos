@@ -40,15 +40,15 @@
 
 ## 1.5 二叉树
 
-1. [前序遍历二叉树](https://github.com/xusworld/basic-algos/blob/master/algos/binary_tree/preorder_traversal.h)
-2. [中序遍历二叉树](https://github.com/xusworld/basic-algos/blob/master/algos/binary_tree/inorder_traversal.h)
-3. [后序遍历二叉树](https://github.com/xusworld/basic-algos/blob/master/algos/binary_tree/postorder_traversal.h)
-4. [层次遍历二叉树](https://github.com/xusworld/basic-algos/blob/master/algos/binary_tree/level_order_traversal.h)
+1. [前序遍历二叉树(preorder traversal)](https://github.com/xusworld/basic-algos/blob/master/algos/binary_tree/preorder_traversal.h)
+2. [中序遍历二叉树(inorder traversal)](https://github.com/xusworld/basic-algos/blob/master/algos/binary_tree/inorder_traversal.h)
+3. [后序遍历二叉树(postorder traversal)](https://github.com/xusworld/basic-algos/blob/master/algos/binary_tree/postorder_traversal.h)
+4. [层次遍历二叉树(level order traversal)](https://github.com/xusworld/basic-algos/blob/master/algos/binary_tree/level_order_traversal.h)
 5. [从前序与中序遍历序列构造二叉树](https://github.com/xusworld/basic-algos/blob/master/algos/binary_tree/construct-binary-tree-from-inorder-and-postorder-traversal.h)
 6. [从中序和后序遍历序列构造二叉树](https://github.com/xusworld/basic-algos/blob/master/algos/binary_tree/construct-binary-tree-from-preorder-and-inorder-traversal.h)
-7. [二叉树最大深度](https://github.com/xusworld/basic-algos/blob/master/algos/binary_tree/maximum_depth.h)
-9. [二叉树最小深度](https://github.com/xusworld/basic-algos/blob/master/algos/binary_tree/minimum_depth.h)
-10. [翻转二叉树](https://github.com/xusworld/basic-algos/blob/master/algos/binary_tree/invert_binary_tree.h)
+7. [二叉树最大深度(maximum depth)](https://github.com/xusworld/basic-algos/blob/master/algos/binary_tree/maximum_depth.h)
+9. [二叉树最小深度(minimum depth)](https://github.com/xusworld/basic-algos/blob/master/algos/binary_tree/minimum_depth.h)
+10. [翻转二叉树(invert binary tree)](https://github.com/xusworld/basic-algos/blob/master/algos/binary_tree/invert_binary_tree.h)
 11. [二叉树所有路径](https://github.com/xusworld/basic-algos/blob/master/algos/binary_tree/path_sum.h)
 12. [二叉树的镜像](https://github.com/xusworld/basic-algos/blob/master/algos/binary_tree/mirror_tree.h)
 13. [二叉树的最近公共祖先](https://github.com/xusworld/basic-algos/blob/master/algos/binary_tree/lowest_common_ancestor.h)
