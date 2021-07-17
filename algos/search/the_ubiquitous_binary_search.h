@@ -1,8 +1,6 @@
-//
-// Created by Luke Skywalker on 2021/7/17.
-//
-
 #ifndef EVERFLOW_ALGOS_SEARCH_THE_UBIQUITOUS_BINARY_SEARCH_H_
 #define EVERFLOW_ALGOS_SEARCH_THE_UBIQUITOUS_BINARY_SEARCH_H_
+
+// https://www.geeksforgeeks.org/the-ubiquitous-binary-search-set-1/
 
 #endif //EVERFLOW_ALGOS_SEARCH_THE_UBIQUITOUS_BINARY_SEARCH_H_
