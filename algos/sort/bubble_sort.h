@@ -3,7 +3,7 @@
 
 namespace algos {
 
-void BubbleSort(std::vector<int>& inputs) {
+void BubbleSort(std::vector<int> &inputs) {
   int N = inputs.size();
   for (int i = 0; i < N; ++i) {
     for (int j = 0; j < N - 1 - i; ++j) {

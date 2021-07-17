@@ -1,0 +1,8 @@
+//
+// Created by Luke Skywalker on 2021/4/24.
+//
+// https://leetcode.com/problems/pyramid-transition-matrix/
+#ifndef EVERFLOW_ALGOS_LEETCODE_TODO_756_PYRAMID_TRANSITION_MATRIX_H_
+#define EVERFLOW_ALGOS_LEETCODE_TODO_756_PYRAMID_TRANSITION_MATRIX_H_
+
+#endif //EVERFLOW_ALGOS_LEETCODE_TODO_756_PYRAMID_TRANSITION_MATRIX_H_
