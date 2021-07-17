@@ -2,9 +2,9 @@
 
 **人生少有平步青云，多是拼搏后螺旋上升。**
 
-## 1 数据结构和算法
+# 1 数据结构和算法
 
-### 1.1 排序算法
+## 1.1 排序算法
 1. [插入排序(insert sort)](https://github.com/xusworld/basic-algos/blob/master/algos/sort/insert_sort.h)
 2. [希尔排序(shell sort)](https://github.com/xusworld/basic-algos/blob/master/algos/sort/shell_sort.h)
 3. [选择排序(selection sort)](https://github.com/xusworld/basic-algos/blob/master/algos/sort/selection_sort.h)
@@ -16,7 +16,7 @@
 9. [桶排序(bucket sort)](https://github.com/xusworld/basic-algos/blob/master/algos/sort/bucket_sort.h)
 10. [基数排序(radix sort)](https://github.com/xusworld/basic-algos/blob/master/algos/sort/radix_sort.h)
 
-### 1.2 查找算法
+## 1.2 查找算法
 1. [顺序查找(sequence_search)](https://github.com/xusworld/basic-algos/blob/master/algos/search/sequence_search.h)
 2. [二分查找(binary search)](https://github.com/xusworld/basic-algos/blob/master/algos/search/binary_search.h)
 3. [插值查找(interpolation search)](https://github.com/xusworld/basic-algos/blob/master/algos/search/interpolation_search.h)
@@ -27,20 +27,20 @@
 8. [跳跃查找(jump search)](https://github.com/xusworld/basic-algos/blob/master/algos/search/jump_search.h)
 9. [无处不在的二分查找(the ubiquitous binary search)](https://github.com/xusworld/basic-algos/blob/master/algos/search/the_ubiquitous_binary_search.h)
 
-### 1.3 链表
+## 1.3 链表
 1. [单链表(singly linked list)](https://github.com/xusworld/basic-algos/blob/master/algos/linked_list/singly_linked_list.h)
 2. [双向链表(doubly linked list)](https://github.com/xusworld/basic-algos/blob/master/algos/linked_list/doubly_linked_list.h)
 3. [环形链表(circular linked list)](https://github.com/xusworld/basic-algos/blob/master/algos/linked_list/circular_linked_list.h)
 
 
 
-### 1.4 哈希表
+## 1.4 哈希表
 1. 散列函数设计
 2. 冲突解决（链表法，开放寻址法）
 3. 位图
 4. 动态扩容
 
-### 1.5 二叉树
+## 1.5 二叉树
 
 1. 前序遍历二叉树
 2. 中序遍历二叉树
@@ -69,8 +69,8 @@ https://leetcode-cn.com/tag/tree/problemset/
 5. 斐波那契堆
 
 
-## 2 算法思维训练
-算法思维训练栏目中，通过一些具体的例子来训练自己对数据结构的掌握程度。
+# 2 算法实战
+算法实战训练栏目中，通过一些具体的例子来训练自己对数据结构的掌握程度。
 
 ## 2.1 排序
 
@@ -82,11 +82,13 @@ https://leetcode-cn.com/tag/tree/problemset/
 
 ## 2.3 哈希表
 
-
 ## 2.4 字符串
 
 ## 2.5 队列 
 
+## 2.6 栈
+
+## 2.7 堆 
 
 
 ## 2.8 树
