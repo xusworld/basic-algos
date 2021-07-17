@@ -35,10 +35,8 @@
 
 
 ## 1.4 哈希表
-1. 散列函数设计
-2. 冲突解决（链表法，开放寻址法）
-3. 位图
-4. 动态扩容
+1. [hash set](https://github.com/xusworld/basic-algos/blob/master/algos/hash/hash_set.h) 
+2. [hash map](https://github.com/xusworld/basic-algos/blob/master/algos/hash/hash_map.h)
 
 ## 1.5 二叉树
 
