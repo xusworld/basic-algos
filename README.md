@@ -83,16 +83,16 @@ https://leetcode-cn.com/tag/tree/problemset/
 
 
 ## 1.6 栈
-1. [最小栈](https://github.com/xusworld/basic-algos/blob/master/algos/leetcode/155_min_stack.h) 
+1. [最小栈(min stack)](https://github.com/xusworld/basic-algos/blob/master/algos/leetcode/155_min_stack.h) 
 
 ## 1.7 堆
-1. 小顶堆
-2. 大顶堆
-3. 二项堆
-4. 斐波那契堆
+1. [小顶堆(min heap)](https://github.com/xusworld/basic-algos/blob/master/algos/heap/min_heap.h)
+2. [大顶堆(max heap)](https://github.com/xusworld/basic-algos/blob/master/algos/heap/max_heap.h)
+3. [二项堆(binomial heap)](https://github.com/xusworld/basic-algos/blob/master/algos/heap/binomial_heap.h)
+4. [斐波那契堆(fibonacci heap)](https://github.com/xusworld/basic-algos/blob/master/algos/heap/fibonacci_heap.h)
 
 ## 1.8 优先队列
-1. 优先队列
+1. [优先队列(priority queue)](https://github.com/xusworld/basic-algos/blob/master/algos/queue/priority_queue.h)
 
 # 2 算法实战
 算法实战训练栏目中，通过一些具体的例子来训练自己对数据结构的掌握程度。
