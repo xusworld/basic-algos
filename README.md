@@ -63,9 +63,10 @@ https://leetcode-cn.com/tag/tree/problemset/
 1. 小顶堆
 2. 大顶堆
 3. 二项堆
-4. 优先队列
-5. 斐波那契堆
+4. 斐波那契堆
 
+## 1.8 优先队列
+1. 优先队列
 
 # 2 算法实战
 算法实战训练栏目中，通过一些具体的例子来训练自己对数据结构的掌握程度。
@@ -87,7 +88,6 @@ https://leetcode-cn.com/tag/tree/problemset/
 ## 2.6 栈
 
 ## 2.7 堆 
-
 
 ## 2.8 树
 
@@ -128,4 +128,7 @@ https://leetcode-cn.com/tag/tree/problemset/
 2. MPMC queue
 3. MPMC stack
 
-### 4 LRU
+## 4 缓存淘汰算法
+4.1 LRU
+4.2 LFU
+4.3 ARC
