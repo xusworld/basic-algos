@@ -1,8 +1,9 @@
+T
 # 程序员应该掌握的基础算法
 
 人生少有平步青云，多是拼搏后螺旋上升。
 
-## 1 数据结构
+## 1 数据结构和算法
 
 ### 1.1 排序算法
 1. [插入排序](https://github.com/xusworld/basic-algos/blob/master/algos/sort/insert_sort.h)
