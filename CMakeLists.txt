@@ -46,6 +46,7 @@ add_executable(CoolAlgosTest
         algos/sort/quick_sort_test.cc
         algos/sort/radix_sort_test.cc
         algos/search/sequence_search_test.cc
+        algos/search/binary_search_test.cc
         )
 
 
