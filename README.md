@@ -126,16 +126,16 @@ https://leetcode-cn.com/tag/tree/problemset/
 3. [260 Single Number III](https://leetcode.com/problems/single-number-iii/)
 
 # 3 LeetCode Hot 100
-1. [两数之和](https://github.com/xusworld/basic-algos/blob/master/algos/leetcode/1_two_sum.h)
-2. [两数相加](https://github.com/xusworld/basic-algos/blob/master/algos/leetcode/2_add_two_numbers.h)
-3. [无重复字符串的最长子串](https://github.com/xusworld/basic-algos/blob/master/algos/leetcode/3_longest_substring_without_repeating_characters.h)
-4. [寻找两个正序数组的中位数](https://github.com/xusworld/basic-algos/blob/master/algos/leetcode/4_median_of_two_sorted_arrays.h)
-5. [最长回文子串](https://github.com/xusworld/basic-algos/blob/master/algos/leetcode/5_longest_palindromic_substring.h)
-10.[正则表达式匹配](https://github.com/xusworld/basic-algos/blob/master/algos/leetcode/10_regular_expression_matching.h)
-11. [盛水最多的容器](https://github.com/xusworld/basic-algos/blob/master/algos/leetcode/11_container_with_most_water.h)
-15. [三数之和](https://github.com/xusworld/basic-algos/blob/master/algos/leetcode/15_3Sum.h)
-17. [电话号码的字母组合](https://github.com/xusworld/basic-algos/blob/master/algos/leetcode/17_letter_combinations_of_a_phone_number.h)
-19. [删除链表的倒数第N个结点](https://github.com/xusworld/basic-algos/blob/master/algos/leetcode/19_remove_nth_node_from_end_of_list.h)
+- [1. 两数之和](https://github.com/xusworld/basic-algos/blob/master/algos/leetcode/1_two_sum.h)
+- [2.两数相加](https://github.com/xusworld/basic-algos/blob/master/algos/leetcode/2_add_two_numbers.h)
+- [3. 无重复字符串的最长子串](https://github.com/xusworld/basic-algos/blob/master/algos/leetcode/3_longest_substring_without_repeating_characters.h)
+- [4. 寻找两个正序数组的中位数](https://github.com/xusworld/basic-algos/blob/master/algos/leetcode/4_median_of_two_sorted_arrays.h)
+- [5. 最长回文子串](https://github.com/xusworld/basic-algos/blob/master/algos/leetcode/5_longest_palindromic_substring.h)
+- [10. 正则表达式匹配](https://github.com/xusworld/basic-algos/blob/master/algos/leetcode/10_regular_expression_matching.h)
+- [11. 盛水最多的容器](https://github.com/xusworld/basic-algos/blob/master/algos/leetcode/11_container_with_most_water.h)
+- [15. 三数之和](https://github.com/xusworld/basic-algos/blob/master/algos/leetcode/15_3Sum.h)
+- [17. 电话号码的字母组合](https://github.com/xusworld/basic-algos/blob/master/algos/leetcode/17_letter_combinations_of_a_phone_number.h)
+- [19. 删除链表的倒数第N个结点](https://github.com/xusworld/basic-algos/blob/master/algos/leetcode/19_remove_nth_node_from_end_of_list.h)
 
 
 

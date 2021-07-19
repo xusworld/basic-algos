@@ -39,6 +39,7 @@
       <change afterPath="$PROJECT_DIR$/algos/leetcode/11_container_with_most_water.h" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/algos/leetcode/15_3Sum.h" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/algos/leetcode/17_letter_combinations_of_a_phone_number.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algos/leetcode/19_remove_nth_node_from_end_of_list.h" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/algos/leetcode/1_two_sum.h" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/algos/leetcode/2_add_two_numbers.h" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/algos/leetcode/3_longest_substring_without_repeating_characters.h" afterDir="false" />
@@ -194,7 +195,7 @@
       <workItem from="1620353210645" duration="479000" />
       <workItem from="1621068347005" duration="1673000" />
       <workItem from="1626526866635" duration="14188000" />
-      <workItem from="1626617848968" duration="3215000" />
+      <workItem from="1626617848968" duration="3924000" />
     </task>
     <servers />
   </component>
