@@ -35,10 +35,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="608a28a3-c1f2-48a0-b2c1-ae0aa3878e93" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algos/binary_tree/inorder_traversal.h" beforeDir="false" afterPath="$PROJECT_DIR$/algos/binary_tree/inorder_traversal.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algos/leetcode/todo_946_validate_stack_sequeues.h" beforeDir="false" afterPath="$PROJECT_DIR$/algos/leetcode/todo_946_validate_stack_sequeues.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algos/binary_tree/preorder_traversal.h" beforeDir="false" afterPath="$PROJECT_DIR$/algos/binary_tree/preorder_traversal.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -187,7 +184,7 @@
       <workItem from="1620353210645" duration="479000" />
       <workItem from="1621068347005" duration="1673000" />
       <workItem from="1626526866635" duration="14188000" />
-      <workItem from="1626617848968" duration="10036000" />
+      <workItem from="1626617848968" duration="10233000" />
     </task>
     <servers />
   </component>
