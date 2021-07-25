@@ -35,18 +35,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="608a28a3-c1f2-48a0-b2c1-ae0aa3878e93" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/algos/leetcode/10_regular_expression_matching.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algos/leetcode/11_container_with_most_water.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algos/leetcode/15_3Sum.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algos/leetcode/17_letter_combinations_of_a_phone_number.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algos/leetcode/19_remove_nth_node_from_end_of_list.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algos/leetcode/1_two_sum.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algos/leetcode/2_add_two_numbers.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algos/leetcode/3_longest_substring_without_repeating_characters.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algos/leetcode/4_median_of_two_sorted_arrays.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algos/leetcode/5_longest_palindromic_substring.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algos/binary_tree/inorder_traversal.h" beforeDir="false" afterPath="$PROJECT_DIR$/algos/binary_tree/inorder_traversal.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algos/leetcode/todo_946_validate_stack_sequeues.h" beforeDir="false" afterPath="$PROJECT_DIR$/algos/leetcode/todo_946_validate_stack_sequeues.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -195,7 +187,7 @@
       <workItem from="1620353210645" duration="479000" />
       <workItem from="1621068347005" duration="1673000" />
       <workItem from="1626526866635" duration="14188000" />
-      <workItem from="1626617848968" duration="3924000" />
+      <workItem from="1626617848968" duration="10036000" />
     </task>
     <servers />
   </component>
