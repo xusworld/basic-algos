@@ -36,7 +36,7 @@
   <component name="ChangeListManager">
     <list default="true" id="608a28a3-c1f2-48a0-b2c1-ae0aa3878e93" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algos/binary_tree/postorder_traversal.h" beforeDir="false" afterPath="$PROJECT_DIR$/algos/binary_tree/postorder_traversal.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algos/images/sort_algo_performance.png" beforeDir="false" afterPath="$PROJECT_DIR$/algos/sort/sort_algo_performance.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/algos/sort/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/algos/sort/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,13 +73,17 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.advertisement.text.has.clang-format" value="true" />
     <property name="cf.first.check.clang-format" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/algos/sort" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/algos" />
       <recent name="$PROJECT_DIR$/algos/search" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/algos/sort" />
+      <recent name="$PROJECT_DIR$/algos/images" />
     </key>
   </component>
   <component name="RunManager" selected="Google Test.Search.BinarySearch">
@@ -187,7 +191,8 @@
       <workItem from="1621068347005" duration="1673000" />
       <workItem from="1626526866635" duration="14188000" />
       <workItem from="1626617848968" duration="11624000" />
-      <workItem from="1627567452161" duration="3556000" />
+      <workItem from="1627567452161" duration="4013000" />
+      <workItem from="1627615873760" duration="2575000" />
     </task>
     <servers />
   </component>
