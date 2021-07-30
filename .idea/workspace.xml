@@ -36,7 +36,6 @@
   <component name="ChangeListManager">
     <list default="true" id="608a28a3-c1f2-48a0-b2c1-ae0aa3878e93" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algos/images/sort_algo_performance.png" beforeDir="false" afterPath="$PROJECT_DIR$/algos/sort/sort_algo_performance.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/algos/sort/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/algos/sort/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -192,7 +191,7 @@
       <workItem from="1626526866635" duration="14188000" />
       <workItem from="1626617848968" duration="11624000" />
       <workItem from="1627567452161" duration="4013000" />
-      <workItem from="1627615873760" duration="2575000" />
+      <workItem from="1627615873760" duration="4539000" />
     </task>
     <servers />
   </component>
