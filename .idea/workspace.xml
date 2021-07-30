@@ -35,7 +35,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="608a28a3-c1f2-48a0-b2c1-ae0aa3878e93" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/algos/binary_tree/preorder_traversal.h" beforeDir="false" afterPath="$PROJECT_DIR$/algos/binary_tree/preorder_traversal.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algos/binary_tree/postorder_traversal.h" beforeDir="false" afterPath="$PROJECT_DIR$/algos/binary_tree/postorder_traversal.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algos/sort/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/algos/sort/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,7 +186,8 @@
       <workItem from="1620353210645" duration="479000" />
       <workItem from="1621068347005" duration="1673000" />
       <workItem from="1626526866635" duration="14188000" />
-      <workItem from="1626617848968" duration="10233000" />
+      <workItem from="1626617848968" duration="11624000" />
+      <workItem from="1627567452161" duration="3556000" />
     </task>
     <servers />
   </component>
@@ -271,12 +274,12 @@
     <state x="491" y="238" key="SettingsEditor" timestamp="1626527663654">
       <screen x="0" y="0" width="1536" height="960" />
     </state>
-    <state x="405" y="-1081" key="SettingsEditor/-413.-1440.2560.1440/0.0.1792.1120@-413.-1440.2560.1440" timestamp="1618483143240" />
     <state x="491" y="238" key="SettingsEditor/0.0.1536.960@0.0.1536.960" timestamp="1626527663654" />
-    <state x="530" y="-1111" key="search.everywhere.popup" timestamp="1619354103275">
-      <screen x="-413" y="-1440" width="2560" height="1440" />
+    <state x="566" y="219" key="search.everywhere.popup" timestamp="1627289478434">
+      <screen x="0" y="0" width="1536" height="960" />
     </state>
     <state x="530" y="-1111" key="search.everywhere.popup/-413.-1440.2560.1440/0.0.1792.1120@-413.-1440.2560.1440" timestamp="1619354103275" />
+    <state x="566" y="219" key="search.everywhere.popup/0.0.1536.960@0.0.1536.960" timestamp="1627289478434" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
