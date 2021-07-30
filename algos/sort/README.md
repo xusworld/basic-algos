@@ -37,7 +37,7 @@
 4. 持续每次对越来越少的元素重复上面的步骤，直到没有任何一对数字需要比较。
 
 
-```
+```c++
 
 void BubbleSort(std::vector<int> &inputs) {
   int N = inputs.size();
@@ -59,7 +59,7 @@ void BubbleSort(std::vector<int> &inputs) {
 选择排序的主要优点与数据移动有关。如果某个元素位于正确的最终位置上，则它不会被移动。选择排序每次交换一对元素，它们当中至少有一个将被移到其最终
 位置上，因此对n个元素的表进行排序总共进行至多 (n-1)次交换。在所有的完全依靠交换去移动元素的排序方法中，选择排序属于非常好的一种。
 
-```
+```c++
 void selection_sort(int a[], int len) {
   int i, j, temp;
 
@@ -89,7 +89,7 @@ void selection_sort(int a[], int len) {
 找到相应位置并插入。插入排序在实现上，通常采用in-place排序（即只需用到O(1)的额外空间的排序）
 ，因而在从后向前扫描过程中，需要反复把已排序元素逐步向后挪位，为最新元素提供插入空间。
 
-```
+```c++
 void InsertionSort(std::vector<int> &inputs) {
   for (int i = 1; i < inputs.size(); ++i) {
     int key = inputs[i];
@@ -138,7 +138,7 @@ void InsertionSort(std::vector<int> &inputs) {
 3. 重复步骤2，直到所有元素排序完毕，即序列数为1
 
 
-```
+```c++
 void Merge(std::vector<int> &inputs, int front, int mid, int end) {
   // 切分左右子数组
   std::vector<int> left(inputs.begin() + front, inputs.begin() + mid + 1);
@@ -186,7 +186,7 @@ void MergeSort(std::vector<int> &inputs, int front, int end) {
 选取基准值有数种具体方法，此选取方法对排序的时间性能有决定性影响。
 
 
-```
+```c++
 
 int Partition(std::vector<int> &inputs, int first, int last) {
   // 使用第一个元素作为 主元 (pivot element)
