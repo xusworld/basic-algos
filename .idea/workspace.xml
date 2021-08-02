@@ -36,18 +36,7 @@
   <component name="ChangeListManager">
     <list default="true" id="608a28a3-c1f2-48a0-b2c1-ae0aa3878e93" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algos/binary_tree/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/algos/binary_tree/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algos/binary_tree/construct-binary-tree-from-inorder-and-postorder-traversal.h" beforeDir="false" afterPath="$PROJECT_DIR$/algos/binary_tree/construct-binary-tree-from-inorder-and-postorder-traversal.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algos/binary_tree/construct-binary-tree-from-preorder-and-inorder-traversal.h" beforeDir="false" afterPath="$PROJECT_DIR$/algos/binary_tree/construct-binary-tree-from-preorder-and-inorder-traversal.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algos/binary_tree/invert_binary_tree.h" beforeDir="false" afterPath="$PROJECT_DIR$/algos/binary_tree/invert_binary_tree.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algos/binary_tree/level_order_traversal.h" beforeDir="false" afterPath="$PROJECT_DIR$/algos/binary_tree/level_order_traversal.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algos/binary_tree/lowest_common_ancestor.h" beforeDir="false" afterPath="$PROJECT_DIR$/algos/binary_tree/lowest_common_ancestor.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algos/binary_tree/maximum_depth.h" beforeDir="false" afterPath="$PROJECT_DIR$/algos/binary_tree/maximum_depth.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algos/binary_tree/minimum_depth.h" beforeDir="false" afterPath="$PROJECT_DIR$/algos/binary_tree/minimum_depth.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algos/binary_tree/mirror_tree.h" beforeDir="false" afterPath="$PROJECT_DIR$/algos/binary_tree/mirror_tree.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algos/binary_tree/path_sum.h" beforeDir="false" afterPath="$PROJECT_DIR$/algos/binary_tree/path_sum.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algos/binary_tree/postorder_traversal.h" beforeDir="false" afterPath="$PROJECT_DIR$/algos/binary_tree/postorder_traversal.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algos/binary_tree/types.h" beforeDir="false" afterPath="$PROJECT_DIR$/algos/binary_tree/types.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -204,7 +193,7 @@
       <workItem from="1627567452161" duration="4013000" />
       <workItem from="1627615873760" duration="5888000" />
       <workItem from="1627668924173" duration="154000" />
-      <workItem from="1627875338169" duration="4804000" />
+      <workItem from="1627875338169" duration="7408000" />
     </task>
     <servers />
   </component>

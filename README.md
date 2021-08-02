@@ -71,48 +71,62 @@
 算法实战训练栏目中，通过一些具体的例子来训练自己对数据结构的掌握程度。
 
 ## 2.1 排序
-- 215. 数组中的第K个最大元素
-- 88. 合并两个有序数组
-- 912. 排序数组
-- 148. 排序链表
-- 面试题 10.01. 合并排序的数组
-- 692. 前K个高频单词
-- 350. 两个数组的交集 II
-- 378. 有序矩阵中第 K 小的元素
-- 75. 颜色分类
-- 1122. 数组的相对排序
-- 147. 对链表进行插入排序
-- 977. 有序数组的平方
-- 791. 自定义字符串排序
-- 451. 根据字符出现频率排序
-- 905. 按奇偶排序数组
-- 922. 按奇偶排序数组 II
-- 1356. 根据数字二进制下 1 的数目排序
-- 280. 摆动排序
-- 1387. 将整数按权重排序
-- 581. 最短无序连续子数组
+_ 215_数组中的第K个最大元素
+_ 88_合并两个有序数组
+_ 912_排序数组
+- 148_排序链表
+- 合并排序的数组
+- 692_前K个高频单词
+- 350_两个数组的交集 II
+- 378_有序矩阵中第 K 小的元素
+- 75_颜色分类
+- 1122_数组的相对排序
+- 147_对链表进行插入排序
+- 977_有序数组的平方
+- 791_自定义字符串排序
+- 451_根据字符出现频率排序
+- 905_按奇偶排序数组
+- 922_按奇偶排序数组 II
+- 1356_根据数字二进制下 1 的数目排序
+- 280_摆动排序
+- 1387_将整数按权重排序
+- 581_最短无序连续子数组
 
 
 
 ## 2.2 查找
 
-## 2.1 数组
+## 2.3 数组
 
-## 2.2 链表
+## 2.4 链表
 
-## 2.3 哈希表
+- [2. 两数相加](https://leetcode-cn.com/problems/add-two-numbers/)
+- [206.反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)
+- [143. 重排链表](https://leetcode-cn.com/problems/reorder-list/)
+- [146. LRU 缓存机制](https://leetcode-cn.com/problems/lru-cache/)
+- [剑指 Offer 22. 链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)
+- [82. 删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/)
+- [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
+- [剑指 Offer 06. 从尾到头打印链表](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/)
+- [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
+- [61. 旋转链表](https://leetcode-cn.com/problems/rotate-list/)
+- [19. 删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)
+- [160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)
 
-## 2.4 字符串
 
-## 2.5 队列 
+## 2.5 哈希表
 
-## 2.6 栈
+## 2.6 字符串
 
-## 2.7 堆 
+## 2.7 队列 
 
-## 2.8 树
+## 2.8 栈
 
-### 2.8.1 二叉树
+## 2.9 堆 
+
+## 2.10 树
+
+### 2.10.1 二叉树
 1. 二叉查找树
 2. 平衡二叉树
 3. 平衡二叉查找树（AVL 和 红黑树）
@@ -122,22 +136,22 @@
 2. [226 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/)
 
 
-### 2.8.2 多路查找树
+### 2.10.2 多路查找树
 
 1. B 树
 2. B+
 3. 2-3 树
 4. 2-3-4 树
 
-## 2.9 回溯算法
+## 2.10 回溯算法
 
-## 2.10 贪心算法
+## 2.11 贪心算法
 
-## 2.11 动态规范
+## 2.12 动态规范
 
-## 2.12 图论
+## 2.13 图论
  
-## 2.13 位运算
+## 2.14 位运算
 
 1. [136 Single Number](https://leetcode.com/problems/single-number/)
 2. [137 Single Number II](https://leetcode.com/problems/single-number-ii/)
