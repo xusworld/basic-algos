@@ -149,6 +149,43 @@ _ 912_排序数组
 
 ## 2.12 动态规范
 
+- [5. 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/)
+- [45. 跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/)
+- [22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses/)
+- [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)
+- [131. 分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning/)
+- [121. 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)
+- [1143. 最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/)
+- [322. 零钱兑换](https://leetcode-cn.com/problems/coin-change/)
+- [剑指 Offer 10- I. 斐波那契数列](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/)
+- [139. 单词拆分](https://leetcode-cn.com/problems/word-break/)
+- [剑指 Offer 13. 机器人的运动范围](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/)
+- [494. 目标和](https://leetcode-cn.com/problems/target-sum/)
+- [剑指 Offer 10- II. 青蛙跳台阶问题](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/)
+- [198. 打家劫舍](https://leetcode-cn.com/problems/house-robber/)
+- [1723. 完成所有工作的最短时间](https://leetcode-cn.com/problems/find-minimum-time-to-finish-all-jobs/)
+- [300. 最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
+- [55. 跳跃游戏](https://leetcode-cn.com/problems/jump-game/)
+- [221. 最大正方形](https://leetcode-cn.com/problems/maximal-square/)
+- [152. 乘积最大子数组](https://leetcode-cn.com/problems/maximum-product-subarray/)
+- [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)
+- [213. 打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii/)
+- [279. 完全平方数](https://leetcode-cn.com/problems/perfect-squares/)
+- [96. 不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/)
+- [122. 买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)
+- [678. 有效的括号字符串](https://leetcode-cn.com/problems/valid-parenthesis-string/)
+- [剑指 Offer 63. 股票的最大利润](https://leetcode-cn.com/problems/gu-piao-de-zui-da-li-run-lcof/)
+- [剑指 Offer 14- I. 剪绳子](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/)
+- [剑指 Offer 46. 把数字翻译成字符串](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/)
+- [338. 比特位计数](https://leetcode-cn.com/problems/counting-bits/)
+- [309. 最佳买卖股票时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
+- [剑指 Offer 42. 连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/)
+- [LCP 07. 传递信息](https://leetcode-cn.com/problems/chuan-di-xin-xi/)
+- [64. 最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/)
+- [518. 零钱兑换 II](https://leetcode-cn.com/problems/coin-change-2/)
+- [368. 最大整除子集](https://leetcode-cn.com/problems/largest-divisible-subset/)
+- [118. 杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/)
+
 ## 2.13 图论
  
 ## 2.14 位运算
