@@ -53,7 +53,6 @@
 12. [二叉树的镜像](https://github.com/xusworld/basic-algos/blob/master/algos/binary_tree/mirror_tree.h)
 13. [二叉树的最近公共祖先](https://github.com/xusworld/basic-algos/blob/master/algos/binary_tree/lowest_common_ancestor.h)
 
-https://leetcode-cn.com/tag/tree/problemset/
 
 
 ## 1.6 栈
