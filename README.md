@@ -207,14 +207,3 @@ _ 912_排序数组
 - [19. 删除链表的倒数第N个结点](https://github.com/xusworld/basic-algos/blob/master/algos/leetcode/19_remove_nth_node_from_end_of_list.h)
 
 
-
-# 4 无锁编程
-
-1. MPMC map
-2. MPMC queue
-3. MPMC stack
-
-# 5 缓存淘汰算法
-4.1 LRU
-4.2 LFU
-4.3 ARC
